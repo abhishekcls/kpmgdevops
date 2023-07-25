@@ -2,4 +2,3 @@ Hello KPMG
 Good Afternoon
 DevOps Training
 Push Demo
-conflict master
